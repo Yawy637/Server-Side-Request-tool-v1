@@ -5,7 +5,7 @@ This is a *VERY* basic tool. Basically shows you server side request and HTML of
 <h4> 
 <br> git clone https://github.com/Yawy637/Server-Side-Request-Tool 
 <br> cd Server-Side-Request-Tool
-<be> python ServerSideRequest.py
+<br> python ServerSideRequest.py
 </h4>
 
 For anything else, I have no idea lmao. Good luck :)
