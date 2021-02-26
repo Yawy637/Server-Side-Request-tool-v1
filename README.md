@@ -4,7 +4,7 @@ This is a *VERY* basic tool. Basically shows you server side request and HTML of
 <h2>To use for linux </h2>
 <h4> 
 <br> git clone https://github.com/Yawy637/Server-Side-Request-Tool-v1
-<br> cd Server-Side-Request-Tool
+<br> cd Server-Side-Request-Tool-v1
 <br> python ServerSideRequest.py
 </h4>
 
